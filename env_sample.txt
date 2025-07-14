@@ -1,0 +1,3 @@
+CLOUD_NAME = ....
+CLOUDINARY_KEY= <enter the key>
+CLOUDINARY_SECRET= <enter the secret key>
