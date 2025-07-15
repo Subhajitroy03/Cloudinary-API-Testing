@@ -18,3 +18,4 @@ This is a **sample project structure** demonstrating how to use the **Cloudinary
 
 This project can serve as a base or utility in other projects where file/image uploading and Cloudinary integration are required.
 
+Feel free to optimize the structure
